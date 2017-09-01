@@ -1,0 +1,20 @@
+(2*bt0*G1 + G1^2 + 2*bt0*K1 + 2*G1*K1 + K1^2 - 2*A1*bt0*LQm - 2*A1*G1*LQm - 
+   2*A1*K1*LQm + A1^2*LQm^2)/(8*ep^2) + 
+ (-4*C1*G1 - 2*G2 - 4*C1*K1 - 2*K2 + 2*A2*LQm + 4*A1*C1*LQm - 2*G1^2*LQm - 
+   2*G1*K1*LQm + 3*A1*G1*LQm^2 + A1*K1*LQm^2 - A1^2*LQm^3)/(8*ep) + 
+ (96*C2 + 48*C1*G1*LQm + 48*G2*LQm - 24*A2*LQm^2 - 24*A1*C1*LQm^2 - 
+   24*bt0*G1*LQm^2 + 24*G1^2*LQm^2 + 12*G1*K1*LQm^2 + 8*A1*bt0*LQm^3 - 
+   28*A1*G1*LQm^3 - 4*A1*K1*LQm^3 + 7*A1^2*LQm^4)/96 + 
+ (ep*(-24*C1*G1*LQm^2 - 48*G2*LQm^2 + 16*A2*LQm^3 + 8*A1*C1*LQm^3 + 
+    24*bt0*G1*LQm^3 - 16*G1^2*LQm^3 - 4*G1*K1*LQm^3 - 6*A1*bt0*LQm^4 + 
+    15*A1*G1*LQm^4 + A1*K1*LQm^4 - 3*A1^2*LQm^5))/96 + 
+ (ep^2*(240*C1*G1*LQm^3 + 960*G2*LQm^3 - 240*A2*LQm^4 - 60*A1*C1*LQm^4 - 
+    420*bt0*G1*LQm^4 + 240*G1^2*LQm^4 + 30*G1*K1*LQm^4 + 84*A1*bt0*LQm^5 - 
+    186*A1*G1*LQm^5 - 6*A1*K1*LQm^5 + 31*A1^2*LQm^6))/2880 + 
+ (ep^3*(-60*C1*G1*LQm^4 - 480*G2*LQm^4 + 96*A2*LQm^5 + 12*A1*C1*LQm^5 + 
+    180*bt0*G1*LQm^5 - 96*G1^2*LQm^5 - 6*G1*K1*LQm^5 - 30*A1*bt0*LQm^6 + 
+    63*A1*G1*LQm^6 + A1*K1*LQm^6 - 9*A1^2*LQm^7))/2880 + 
+ (ep^4*(17280*A1*bt0*flag + 5760*A1*flag*G1 + 5760*A1*flag*K1 - 
+    5760*A1^2*flag*LQm + 96*C1*G1*LQm^5 + 1536*G2*LQm^5 - 256*A2*LQm^6 - 
+    16*A1*C1*LQm^6 - 496*bt0*G1*LQm^6 + 256*G1^2*LQm^6 + 8*G1*K1*LQm^6 - 
+    216*A1*bt0*LQm^7 - 144*A1*G1*LQm^7 + 17*A1^2*LQm^8))/23040
